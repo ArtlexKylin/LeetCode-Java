@@ -12,7 +12,12 @@
 # 目录
 ### 一、数组
 ##### （一）简单
-###### 巧用集合框架
-[(3:star2:) 1. 两数之和](https://github.com/ArtlexKylin/LeetCode-Java/blob/main/%E6%95%B0%E7%BB%84/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+###### 集合框架
+[(3:star2:) 1. 两数之和]()
 ###### 双指针
-[(1:star:) 26.删除排序数组中的重复项.md](https://github.com/ArtlexKylin/LeetCode-Java/blob/main/%E6%95%B0%E7%BB%84/26.%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
+[(1:star:) 26.删除排序数组中的重复项]() <br>
+[(1:star:) 27.移除元素]()
+###### 二分查找
+[(1:star:) 35.搜索插入位置]()
+###### 动态规划
+[(3:star2:) 53.最大子序和.md（分治的方法很有意思）]()
